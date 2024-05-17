@@ -13,7 +13,7 @@
         "Stephen McMahon",
         "Steven Williams",
         "Jonathan Brooks",
-        "David Lythgoe", 
+        "David Lythgoe",
         "Matthew Howard",
         "Alice Dabbagh",
         "Ulrike Horn",
@@ -38,7 +38,7 @@
         "Katherine T Martucci",
         "Mahdi Mobarak-Abadi",
         "Ali Khatibi",
-        "Shahabeddin Vahdat", 
+        "Shahabeddin Vahdat",
         "Ovidiu Lungu",
         "Juergen Finsterbusch",
         "J. Cohen-Adad",
@@ -50,7 +50,6 @@
         "Christian Kuending",
         "Nawal Kinany",
         "Dimitri Van De Ville"
-
     ],
     "Funding": [
         "Young Investigator Grant from the German-Israeli Foundation (no. 2528)",
@@ -81,5 +80,5 @@
         "Fondation Campus Biotech Geneva (FCBG), a foundation of the École Polytechnique Fédérale de Lausanne (EPFL)",
         "University of Geneva (UniGE), and the canton of Geneva."
     ],
-    "DatasetDOI": "XX"
+    "DatasetDOI": "doi:10.18112/openneuro.ds005143.v1.0.0"
 }
