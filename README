@@ -1,0 +1,11 @@
+This dataset was acquired using various EPI protocols on multiple subjects, multiple sites, and multiple MRI vendors and models to develop a method to automate the time-consuming segmentation of the spinal cord for fMRI. The list of subjects is available in participants.tsv.
+
+This dataset follows the BIDS convention.
+The contributors have the necessary ethics & permissions to share the data publicly.
+
+The dataset does not include any identifiable personal health information, including names,
+zip codes, dates of birth, and facial features.
+
+Link to the full data: https://openneuro.org/datasets/ds005143.
+
+If you reference this dataset in your publications, please cite the following publication: XXX.
