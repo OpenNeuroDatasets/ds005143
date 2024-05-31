@@ -4,6 +4,11 @@
         {
             "Name": "Manual",
             "Author": "Kimberly Hemmerling"
+        },
+        {
+            "Name": "Manual",
+            "Author": "Rohan Banerjee and Merve Kaptan (Manually corrected after initial segmentation done by EPISeg model (https://github.com/sct-pipeline/fmri-segmentation/releases/tag/v0.2))",
+            "Date": "2024-05-31 01:27:25"
         }
     ]
 }
