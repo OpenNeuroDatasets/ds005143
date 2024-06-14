@@ -1,4 +1,0 @@
-1.1.0 2024-05-31
-  - This version updates the dataset with manually segmented spinal cords of some subjects. The details of how the segmentations were produced can be found in the respective json sidecar files of each subject. 
-1.0.0 2024-05-17
-  - initial upload
