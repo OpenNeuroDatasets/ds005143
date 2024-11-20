@@ -34,7 +34,7 @@
         "Fondation Campus Biotech Geneva (FCBG), a foundation of the École Polytechnique Fédérale de Lausanne (EPFL)",
         "University of Geneva (UniGE), and the canton of Geneva."
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005143.v1.2.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005143.v1.2.1",
     "HowToAcknowledge": "Should you make use of this dataset and the automated segmentation, please cite the following article:  link to be updated after preprint submission",
     "ReferencesAndLinks": [
         "https://github.com/sct-pipeline/fmri-segmentation",
