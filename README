@@ -1,3 +1,5 @@
+# Spinal Cord fMRI Segmentation Database
+
 This multi-site data set is organized according to the Brain Imaging Data Structure specification. For more information on this data specification, see https://bids-specification.readthedocs.io/en/stable/
 
 Each participant's data is in one subdirectory, which contains the mean of motion-corrected volumes  (the mean image that was used to draw the spinal cord mask) as well as the associated metadata.
