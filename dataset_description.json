@@ -38,5 +38,8 @@
     "HowToAcknowledge": "Should you make use of this dataset and the automated segmentation, please cite the following article:  link to be updated after preprint submission",
     "ReferencesAndLinks": [
         "https://github.com/sct-pipeline/fmri-segmentation"
+    ],
+    "EthicsApprovals": [
+        "All sites obtained the necessary ethics approvals from their respective institutions."
     ]
 }
