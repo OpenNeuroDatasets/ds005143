@@ -2,5 +2,6 @@ This multi-site data set is organized according to the Brain Imaging Data Struct
 
 Each participant's data is in one subdirectory, which contains the mean of motion-corrected volumes  (the mean image that was used to draw the spinal cord mask) as well as the associated metadata.
 
+Spinal cord masks that were generated based on mean of motion-corrected volumes are found under derivatives/label/sub-subjectID/sub-subjectID_task-rest_desc-spinalcordmask.nii.gz. 
 
-Should you have any questions about this data set, please contact mkaptan@stanford.edu and banerjee.rohan98@gmail.com
+Should you have any questions about this data set, please contact mkaptan@stanford.edu and banerjee.rohan98@gmail.com 
