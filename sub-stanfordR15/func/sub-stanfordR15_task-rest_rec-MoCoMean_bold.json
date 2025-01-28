@@ -31,7 +31,6 @@
 	"Pfile_name" : 25088,
 	"PhaseEncodingDirection": "j",
 	"TaskName": "rest",
-	"TotalReadoutTime": ".02790400000000000000",
 	"SAR" : 0.118493,
 	"EffectiveEchoSpacing" : 0.000872
 	}
