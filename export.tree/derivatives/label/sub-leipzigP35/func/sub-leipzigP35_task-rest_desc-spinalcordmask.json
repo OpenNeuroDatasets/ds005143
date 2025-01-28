@@ -1,9 +1,0 @@
-{
-    "SpatialReference": "orig",
-    "GeneratedBy": [
-        {
-            "Name": "sct_deepseg",
-            "Version": "SCT vv5.5.0"
-        }
-    ]
-}
